@@ -1,0 +1,1 @@
+!function(n,t){function i(){this.index=index,this.len=len}i.prototype={prev:function(){},next:function(){},getIndex:function(n){var t=this.index,i=this.len,e=(t+i+n)%i;return this.index=e}},(void 0).controlManger=i}();
